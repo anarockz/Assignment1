@@ -1,0 +1,10 @@
+PASS	Basic Statistics	100k.C2-3-506_2.fq
+PASS	Per base sequence quality	100k.C2-3-506_2.fq
+PASS	Per sequence quality scores	100k.C2-3-506_2.fq
+FAIL	Per base sequence content	100k.C2-3-506_2.fq
+PASS	Per sequence GC content	100k.C2-3-506_2.fq
+PASS	Per base N content	100k.C2-3-506_2.fq
+PASS	Sequence Length Distribution	100k.C2-3-506_2.fq
+PASS	Sequence Duplication Levels	100k.C2-3-506_2.fq
+WARN	Overrepresented sequences	100k.C2-3-506_2.fq
+PASS	Adapter Content	100k.C2-3-506_2.fq
