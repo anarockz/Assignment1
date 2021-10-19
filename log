@@ -1,0 +1,11 @@
+commit f6d86310be9a97eb38976166b4a7e78791b05906
+Author: anarockz <ananyachinnikrishnan@gmail.com>
+Date:   Tue Oct 19 13:01:52 2021 +0100
+
+    Added bowtie2 alignment files
+
+commit cde70567a5d942340b9221aacb54370ece5c7fc6
+Author: anarockz <ananyachinnikrishnan@gmail.com>
+Date:   Mon Oct 18 13:38:02 2021 +0100
+
+    Added FASTQC results
